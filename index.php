@@ -46,11 +46,9 @@
 
             <p class="lead">Backend Developer Engineer</p>
             <ul class="social-icon">
-                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/abilashgt"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/abilashgt/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                <li><a href="https://github.com/abilashgt"><i class="fa fa-github" aria-hidden="true"></i></a></li>
             </ul>
         </div>
         <div class="profile-img"></div>
@@ -192,7 +190,7 @@
 
 
                     <div class="progress-item">
-                        <span class="progress-title">Restful APIs - Spring</span>
+                        <span class="progress-title">Restful APIs - Spring MVC</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
@@ -456,6 +454,10 @@
                 <address>
                     <strong>Email</strong><br>
                     <a href="mailto:abilash4work@gmail.com">abilash4work@gmail.com</a>
+                </address>
+                <address>
+                    <strong>Linked-In</strong><br>
+                    <a href="https://www.linkedin.com/in/abilashgt/">https://www.linkedin.com/in/abilashgt/</a>
                 </address>
             </div>
         </div>
