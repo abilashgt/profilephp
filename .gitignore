@@ -1,0 +1,47 @@
+# General
+Thumbs.db
+.DS_Store
+#nl.sh
+
+# General extensions
+*.c~
+*.cpp~
+*.java~
+*.php.swp
+*.php~
+*.js~
+*.css~
+*.less~
+*.html~
+*.htm~
+*.htaccess~
+*~
+*._.DS_Store
+
+# compiled
+a.out
+*.class
+*.pyc
+*.apk
+
+# Git
+*.orig
+
+# Editors
+nbproject
+*.iml
+.idea
+.project
+.classpath
+.settings
+
+# logs
+#.run.log
+#.last_tmp.py
+
+# libraries
+*.jar
+
+# Development specific files
+/temp/*
+target
