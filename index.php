@@ -347,10 +347,10 @@
                     <h3>Art and Music</h3>
 
                     <p> I enjoy art! Visiting various art musuems and experience the artistic work is my hobby. I also enjoy music and play acoustic guitar.</p>
-
+s
                 </div>
                 <div class="content-item">
-                    <h3>Volunteering for Non Profit Organisation</h3>
+                    <h3>Volunteering for Non-Profit Organisations</h3>
 
                     <p> There is no greater self satisfaction than volunteering for non-profit organisations. Offer help wherever I can and help those who can't help themselves!</p>
                 </div>
@@ -435,7 +435,7 @@
 </section>
 <!-- .portfolio -->
 
-<section class="section-contact section-wrapper gray-bg">
+<section class="section-contact section-wrapper">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
@@ -502,7 +502,7 @@
 </section>
 <!--.section-contact-->
 
-<footer class="footer">
+<footer class="footer gray-bg">
     <div class="copyright-section">
         <div class="container-fluid">
             <div class="row">
