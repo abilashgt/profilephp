@@ -7,7 +7,7 @@
     <meta name="author" content="Abilash George Thomas">
     <link rel="icon" href="favicon.ico">
 
-    <title>Cover Template for Bootstrap</title>
+    <title>Abilash George Thomas</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
