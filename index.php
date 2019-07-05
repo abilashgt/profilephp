@@ -347,7 +347,6 @@
                     <h3>Art and Music</h3>
 
                     <p> I enjoy art! Visiting various art musuems and experience the artistic work is my hobby. I also enjoy music and play acoustic guitar.</p>
-s
                 </div>
                 <div class="content-item">
                     <h3>Volunteering for Non-Profit Organisations</h3>
