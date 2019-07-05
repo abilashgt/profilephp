@@ -100,7 +100,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>High Valume Big Data Processing</h3>
+                    <h3>High Volume Big Data Processing</h3>
 
                     <p>
                         Large Processing data using Spark in Hadoop Infrastructure. ETL and Machine learning skills
@@ -109,10 +109,10 @@
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Backend in Linux and NoSQL </h3>
+                    <h3>Integration with SQL and NoSQL </h3>
 
                     <p>
-                        Experience in Linux servers with SQL and NoSQL Databases - MongoDB, HBase, Oracle DB, Mysql, PostgresQL
+                        Experience integrating SQL and NoSQL Databases like MongoDB, HBase, Oracle DB, Mysql, PostgresQL etc
                     </p>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                     <h3>Cloud Infrastructure</h3>
 
                     <p>
-                        Experience working in various Cloud platforms like Amazon AWS, Microsoft Azure etc.
+                        Experience working in various Cloud platforms like Amazon AWS, Microsoft Azure etc. Also posseses expertize in Linux OS
                     </p>
                 </div>
             </div>
@@ -135,6 +135,26 @@
 
                     <p>
                         Developing APIs in Spring Framework and related tools. </p>
+                </div>
+            </div>
+        </div>
+        <!-- .row -->
+        <div class="row">
+            <div class="col-md-6">
+                <div class="expertise-item">
+                    <h3>Automation</h3>
+
+                    <p>
+                        Writing automation scripts in Linux using shell scripts and python </p>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="expertise-item">
+                    <h3>Multiple Domains</h3>
+
+                    <p>
+                        Experience working in multiple domains - Social Media, Insurance, Manufacturing </p>
                 </div>
             </div>
         </div>
@@ -159,7 +179,7 @@
                 <div class="progress-wrapper">
 
                     <div class="progress-item">
-                        <span class="progress-title">Marketing</span>
+                        <span class="progress-title">Big Data - Hadoop, Spark, Kafka</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="62" aria-valuemin="0"
@@ -172,7 +192,7 @@
 
 
                     <div class="progress-item">
-                        <span class="progress-title">Market Research</span>
+                        <span class="progress-title">Restful APIs - Spring</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
@@ -185,7 +205,7 @@
 
 
                     <div class="progress-item">
-                        <span class="progress-title">Organisational Skills</span>
+                        <span class="progress-title">Databases - SQL and NoSQL</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
@@ -197,7 +217,7 @@
                     <!-- /.skill-progress -->
 
                     <div class="progress-item">
-                        <span class="progress-title">Communtcation Skills</span>
+                        <span class="progress-title">Cloud Infrastructure</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
@@ -208,11 +228,11 @@
                     </div>
                     <!-- /.skill-progress -->
                     <div class="progress-item">
-                        <span class="progress-title">Project Management</span>
+                        <span class="progress-title">Other tools - PHP, Html, Javascript, Docker</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
-                                 aria-valuemax="100" style="width: 80%;"><span class="progress-percent"> 80%</span>
+                                 aria-valuemax="100" style="width: 50%;"><span class="progress-percent"> 50%</span>
                             </div>
                         </div>
                         <!-- .progress -->
@@ -241,26 +261,26 @@
             <div class="col-md-12">
                 <div class="content-item">
                     <small>2015 - Present</small>
-                    <h3>Head of market research</h3>
-                    <h4>Computer & Motor Ltd.</h4>
+                    <h3>Computer Systems Analyst</h3>
+                    <h4>Tata Consultancy Services Ltd.</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>India, Kochi and USA, California</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2012 - 2015</small>
-                    <h3>Media Analyst</h3>
-                    <h4>BizzNiss</h4>
+                    <small>2011 - 2014</small>
+                    <h3>Senior Software Engineer</h3>
+                    <h4>HIFX IT and Media Services Pvt Ltd</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>India, Kochi</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2010 - 2012</small>
-                    <h3>Budget Administrator</h3>
-                    <h4>Somsom LLC</h4>
+                    <small>2010 - 2011</small>
+                    <h3>Web Developer</h3>
+                    <h4>Matekk Consultancy Services Pvt Ltd</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>India, Kochi</p>
                 </div>
                 <!-- .experience-item -->
             </div>
@@ -283,27 +303,19 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="content-item">
-                    <small>2010 - 2012</small>
-                    <h3>MA Product Design</h3>
-                    <h4>University of California</h4>
+                    <small>2006 - 2010</small>
+                    <h3>Computer Science and Engineering</h3>
+                    <h4>Mahatma Gandhi University</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>India, Kerala</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2007 - 2010</small>
-                    <h3>Business marketing course</h3>
-                    <h4>Royal Academy of Business</h4>
+                    <small>1992 - 2006</small>
+                    <h3>Primary Education and High School</h3>
+                    <h4>Sri Atmananda Memorial School</h4>
 
-                    <p>United Kingdom, London</p>
-                </div>
-                <!-- .experience-item -->
-                <div class="content-item">
-                    <small>2002 - 2006</small>
-                    <h3>BA (Hons) Design</h3>
-                    <h4>University of Michigan</h4>
-
-                    <p>United Kingdom, London</p>
+                    <p>India, Kerala</p>
                 </div>
                 <!-- .experience-item -->
             </div>
@@ -329,26 +341,20 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="content-item">
-                    <h3>Books</h3>
+                    <h3>Outdoor Sports</h3>
 
-                    <p>Proactively extend market-driven e-tailers rather than enterprise-wide supply chains.
-                        Collaboratively embrace 24/7 processes rather than adaptive users. Seamlessly monetize
-                        alternative e-business.</p>
+                    <p>Playing various outdoor sports for relaxing and as part workout. Having a healthy body and mind is important for the future career.</p>
                 </div>
                 <div class="content-item">
-                    <h3>Sports</h3>
+                    <h3>Art and Music</h3>
 
-                    <p>Assertively grow optimal methodologies after viral technologies. Appropriately develop
-                        frictionless technology for adaptive functionalities. Competently iterate functionalized
-                        networks for best-of-breed services.</p>
+                    <p> I enjoy art! Visiting various art musuems and experience the artistic work is my hobby. I also enjoy music and play acoustic guitar.</p>
 
                 </div>
                 <div class="content-item">
-                    <h3>Art</h3>
+                    <h3>Volunteering for Non Profit Organisation</h3>
 
-                    <p>Dramatically utilize superior infomediaries whereas functional core competencies.
-                        Enthusiastically repurpose synergistic vortals for customer directed portals. Interactively
-                        pursue sustainable leadership via.</p>
+                    <p> There is no greater self satisfaction than volunteering for non-profit organisations. Offer help wherever I can and help those who can't help themselves!</p>
                 </div>
             </div>
         </div>
