@@ -447,10 +447,6 @@
         <div class="row">
             <div class="col-md-12">
                 <address>
-                    <strong>Phone Number</strong><br>
-                    +1 925 364 1810
-                </address>
-                <address>
                     <strong>Email</strong><br>
                     <a href="mailto:abilash4work@gmail.com">abilash4work@gmail.com</a>
                 </address>
