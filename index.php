@@ -68,15 +68,20 @@
             </div>
             <div class="col-md-12">
                 <p>
-                  I am a Software Engineer with 8 years of experience in developing software solutions.
-                  I have acquired skills in creating Microservices, RESTful APIs and web applications using technologies like Java, Spring Framework etc.
-                  I have experience analyzing Big Data using Hadoop and Spark.
+                  I am a Software Engineer with 8 years of experience in developing backend software solutions. 
+                  I have acquired expertise in Big Data Analytics and RESTful Web Services.
+                  I have developed code for various domains and software development platforms like Cloud and Internet of Things (IOT) 
                 </p>
-
                 <p>
-                  I have developed software infrastructures in various Cloud Platforms.
-                  I worked with the IOT Platforms and created end to end software solutions in Cloud and Big Data.
-                  I have also gained experience coordinating and leading cross-functional and multi-cultural development teams from onsite and remotely.
+                  I have acquired skills in Big Data Enginering using Hadoop and Spark Platforms with Java and Scala.
+                  I have acquired skills in creating Microservices, RESTful APIs and web applications using Spring MVC and related technologies.
+                  I have worked on both SQL and NoSQL Databases.
+                </p>
+                <p>
+                  I am a team player.
+                  I have gained experience coordinating and leading cross-functional and multi-cultural development teams.
+                  I have worked in three countries India, Philippines and USA.
+                  I am a very open and transparent person.
                 </p>
             </div>
         </div>
