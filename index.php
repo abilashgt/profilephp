@@ -113,10 +113,10 @@
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3> Processing from Structured and Unstructured Data Sources </h3>
+                    <h3> Structured and Unstructured Data Sources </h3>
 
                     <p>
-                        Integrating with SQL (Structured) and NoSQL (Unstructures) Databases.
+                        Processing and Integrating SQL (Structured) and NoSQL (Unstructures) Databases.
                         SQL Databases include Oracle DB, Mysql, PostgresQL etc.
                         NoSQL Databases include HBase, MongoDB etc.
                         Also experienced with Stream processing using Kafka.
@@ -128,7 +128,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Cloud Infrastructure</h3>
+                    <h3>Cloud Infrastructure to Replace In House Servers</h3>
 
                     <p>
                         Experience working in various Cloud platforms like Amazon AWS, Microsoft Azure etc. Also posseses expertize in Linux OS
@@ -138,7 +138,7 @@
 
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3> Developing Web API's for Mobile Devices like Iphone and Android </h3>
+                    <h3> Web API's for Mobile Devices like Iphone and Android </h3>
 
                     <p>
                         Experience developing RESTful APIs and Microservices using Spring Framework and related technologies. 
@@ -151,7 +151,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Automating Support and Engineering Tasks</h3>
+                    <h3>Automating Engineering Tasks</h3>
 
                     <p>
                         Has worked on automating engineering tasks and workflows by removing the manual Process.
