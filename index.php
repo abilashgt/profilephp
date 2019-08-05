@@ -103,19 +103,23 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>High Volume Big Data Processing</h3>
+                    <h3>Big Data Analytics</h3>
 
                     <p>
-                        Large Processing data using Spark in Hadoop Infrastructure. ETL and Machine learning skills
+                        Processing large volume of data on a distributed computing infrastructure using tools like Spark and Hadoop. 
+                        Also does ETL and Machine learning.
                     </p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Integration with SQL and NoSQL </h3>
+                    <h3> Processing from Structured and Unstructured Data Sources </h3>
 
                     <p>
-                        Experience integrating SQL and NoSQL Databases like MongoDB, HBase, Oracle DB, Mysql, PostgresQL etc
+                        Integrating with SQL (Structured) and NoSQL (Unstructures) Databases.
+                        SQL Databases include Oracle DB, Mysql, PostgresQL etc.
+                        NoSQL Databases include HBase, MongoDB etc.
+                        Also experienced with Stream processing using Kafka.
                     </p>
                 </div>
             </div>
@@ -134,10 +138,12 @@
 
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>RESTful APIs and Microservices</h3>
+                    <h3> Developing Web API's for Mobile Devices like Iphone and Android </h3>
 
                     <p>
-                        Developing APIs in Spring Framework and related tools. </p>
+                        Experience developing RESTful APIs and Microservices using Spring Framework and related technologies. 
+                        Has worked on improving the security using Ouauth 2.0 protocol, Micorosoft Active Directory, Facebook Authentication etc.
+                    </p>
                 </div>
             </div>
         </div>
@@ -145,19 +151,22 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Automation</h3>
+                    <h3>Automating Support and Engineering Tasks</h3>
 
                     <p>
-                        Writing automation scripts in Linux using shell scripts and python </p>
+                        Has worked on automating engineering tasks and workflows by removing the manual Process.
+                        Automation scripts in Linux using shell scripts and python.
+                    </p>
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Multiple Domains</h3>
+                    <h3>Multiple Domains and Projects</h3>
 
                     <p>
-                        Experience working in multiple domains - Social Media, Insurance, Manufacturing </p>
+                        Experience working in multiple domains like Social Media, Insurance, Manufacturing etc.
+                    </p>
                 </div>
             </div>
         </div>
