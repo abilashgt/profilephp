@@ -369,8 +369,8 @@
                 <div class="content-item">
                     <h3>Volunteering for Non-Profit Organisations</h3>
                     <p> 
-                        There is no greater joy and self satisfaction than volunteering for those who can't help themselves. 
-                        Offering help wherever possible!
+                        There is no greater joy and self-satisfaction than volunteering to help those who can't help themselves. 
+                        Offering support and care wherever possible!
                     </p>
                 </div>
             </div>
