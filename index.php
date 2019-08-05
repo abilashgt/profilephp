@@ -128,7 +128,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Cloud Infrastructure to Replace In House Servers</h3>
+                    <h3>Cloud Infrastructure to Replace In-House Servers</h3>
 
                     <p>
                         Experience working in various Cloud platforms like Amazon AWS, Microsoft Azure etc. Also posseses expertize in Linux OS
@@ -142,7 +142,7 @@
 
                     <p>
                         Experience developing RESTful APIs and Microservices using Spring Framework and related technologies. 
-                        Has worked on improving the security using Ouauth 2.0 protocol, Micorosoft Active Directory, Facebook Authentication etc.
+                        Has worked on improving the security using Oauth 2.0 protocol, Micorosoft Active Directory, Facebook Authentication etc.
                     </p>
                 </div>
             </div>
@@ -354,18 +354,24 @@
             <div class="col-md-12">
                 <div class="content-item">
                     <h3>Outdoor Sports</h3>
-
-                    <p>Playing various outdoor sports for relaxing and as part workout. Having a healthy body and mind is important for the future career.</p>
+                    <p>
+                        Doing outdoor activities for fun and workout! 
+                        My hobbies include playing Soccer, Rock Climbing, Hiking, Swimming etc
+                    </p>
                 </div>
                 <div class="content-item">
                     <h3>Art and Music</h3>
-
-                    <p> I enjoy art! Visiting various art musuems and experience the artistic work is my hobby. I also enjoy music and play acoustic guitar.</p>
+                    <p> 
+                        I like visiting various art musuems to feel the history of humanity. 
+                        Trying understanding the emotions of cultures and events is a thing for me.
+                        I also enjoy music and play acoustic guitar.</p>
                 </div>
                 <div class="content-item">
                     <h3>Volunteering for Non-Profit Organisations</h3>
-
-                    <p> There is no greater self satisfaction than volunteering for non-profit organisations. Offer help wherever I can and help those who can't help themselves!</p>
+                    <p> 
+                        There is no greater joy and self satisfaction than volunteering for those who can't help themselves. 
+                        Offering help wherever possible!
+                    </p>
                 </div>
             </div>
         </div>
